@@ -1,0 +1,44 @@
+[
+    {
+      "name": "Iphone 13 Mobile",
+      "imageUrl": "assets/images/iphone.jpg",
+      "description": "Description of Product 1",
+      "price": 29.99
+    },
+    {
+      "name": "Iphone 14 Mobile",
+      "imageUrl": "assets/images/iphone2.jpeg",
+      "description": "Description of Product 2",
+      "price": 25.99
+    },
+    {
+        "name": "Android Mobile",
+        "imageUrl": "assets/images/android.jpeg",
+        "description": "Description of Product 2",
+        "price": 19.99
+      },
+      {
+        "name": "HP Laptop",
+        "imageUrl": "assets/images/laptop.jpg",
+        "description": "Description of Product 2",
+        "price": 22.99
+      },
+      {
+        "name": "Acer Laptop",
+        "imageUrl": "assets/images/laptop2.jpg",
+        "description": "Description of Product 2",
+        "price": 23.99
+      },
+      {
+        "name": "Asus Laptop",
+        "imageUrl": "assets/images/laptop4.jpeg",
+        "description": "Description of Product 2",
+        "price": 24.99
+      }
+
+
+
+ 
+      
+  ]
+  
